@@ -1,7 +1,7 @@
 ## The Functional Requirements
 
 1. Every 15 minutes, the system will use Internet of Things sensors to gather fill-level data from smart garbage containers.
-2. Using sensors data and geographical location, the system will automatically create the best garbage vehicle routes.
+2. Using sensors data and geographical location, the system will automatically create the best garbage vehicle routes.  
 
 ## The Non-Functional Requirements
 
